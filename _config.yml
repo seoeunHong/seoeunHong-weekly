@@ -5,23 +5,23 @@
 # CUSTOMIZE
 # Name of your site (displayed in the header)
 # This should be your name or nickname.
-name: Your Name
+name: Seoeun(Sun☀️) Hong
 
 # CUSTOMIZE
 # Short bio or description aout you (displayed in the header)
-description: CSCI-UA 480 Student, Spring 2023
+description: Undergraduate Student studying CS & Math @ NYU
 
 # CUSTOMIZE
-# URL of your avatar or profile pic (the image should be located in the images 
+# URL of your avatar or profile pic (the image should be located in the images
 # directory in this repository, or you can change the link to point any image anywhere
 # on the web). Replace "weekly" by the name of your own repository.
 # It should be "USER_NAME-weekly" in which USER_NAME is replaced by your actual
 # user name for GitHub.
-avatar: /weekly/images/icon.png 
+avatar: /seoeunHong-weekly/images/studying_cat.jpeg
 # fallback text in case image is not served and/or for screen readers
-avatar_alt_text: Avatar
-# use this separator in your blogs to indicate where the abbreviated part ends and 
-# the "Read more ..." link apprears 
+avatar_alt_text: Profile Pic
+# use this separator in your blogs to indicate where the abbreviated part ends and
+# the "Read more ..." link apprears
 excerpt_separator: <!--more-->
 
 # CUSTOMIZE
@@ -32,12 +32,12 @@ excerpt_separator: <!--more-->
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: seoeun.hong@nyu.edu
   facebook:
   flickr:
-  github: ossd-s23
+  github: seoeunHong
   instagram:
-  linkedin:
+  linkedin: seoeun-hong
   pinterest:
   twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
@@ -50,14 +50,14 @@ footer-links:
 # It should be "/USER_NAME-weekly" in which USER_NAME is replaced by your actual
 # user name for GitHub.
 
-url: "https://ossd-s23.github.io/weekly"
+url: "https://ossd-s23.github.io/seoeunHong-weekly"
 
 # CUSTOMIZE
 # Replace this with the name of your own repository.
 # It should be "/USER_NAME-weekly" in which USER_NAME is replaced by your actual
 # user name for GitHub.
 
-baseurl: "/weekly"
+baseurl: "/seoeunHong-weekly"
 
 #
 # !! You don't need to change any of the configuration flags below !!
@@ -77,7 +77,7 @@ kramdown:
   syntax_highlighter: rouge
   syntax_highlighter_opts:
     # Use existing pygments syntax highlighting css
-    css_class: 'highlight'
+    css_class: "highlight"
 
 # Set the Sass partials directory, as we're using @imports
 sass:
